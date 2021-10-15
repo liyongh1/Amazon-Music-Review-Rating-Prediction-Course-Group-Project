@@ -1,4 +1,4 @@
-**Amazon Music Review Rating Prediction (NLP, NLTK, Kaggle in-class competition)**
+Amazon Music Review Rating Prediction (NLP, NLTK, Kaggle in-class competition)
 
 - Designed pipeline to tokenize, remove stop-words, and lemmatize about 500,000 samples of Amazon Music review text data using RegEx and NLTK library, before feeding the training portion into TF-IDF;
 
